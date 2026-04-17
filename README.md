@@ -127,15 +127,6 @@ The dataset includes hospital-level patient records:
 
 ---
 
-## 📷 Dashboard Preview
-> Add your Power BI screenshots here:
-- Page 1: Overview
-- Page 2: Hospital Performance
-- Page 3: Doctor Analysis
-- Page 4: Financial Analysis
-- Page 5: Time Analysis
-
----
 
 ## 📈 Project Outcome
 This project demonstrates strong skills in:
